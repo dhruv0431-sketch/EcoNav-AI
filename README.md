@@ -1,3 +1,13 @@
+---
+title: EcoNav AI
+emoji: 🌍
+colorFrom: green
+colorTo: blue
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # 🌱 EcoNav AI — Exposure Credit OpenEnv
 
 An OpenEnv-compliant Reinforcement Learning environment built for the Meta AI Environmental Decision Intelligence Hackathon. 
